@@ -1,1 +1,1 @@
-const offerLink = "https://emmausa-emma4700.vercel.app/";
+const offerLink = "https://tinyurl.com/mvz8pvk5";
