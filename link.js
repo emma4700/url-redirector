@@ -1,1 +1,1 @@
-const offerLink = "https://tinyurl.com/mvz8pvk5";
+const offerLink = "https://secretchat47.page.link/iDzQ";
