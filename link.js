@@ -1,1 +1,1 @@
-const offerLink = "https://secretpage333.page.link/qbvQ";
+const offerLink = "https://free555.page.link/V9Hh";
