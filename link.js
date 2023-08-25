@@ -1,1 +1,1 @@
-const offerLink = "https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbmNSNlNVWTZRU1JHTm9zbXJWNDdObkFUeFVMQXxBQ3Jtc0trNmxwMExjUzFlZW1QSHFsYW9HcnF3bVV5UV9vLVpLQXd5ZFFwZ194VVhMOF9pY0R2WVlEaTlFWWg2aFA3UEVtdG9tbzg0aWhIaXhoZFl6YnJCOXA5dlRuUW5vTDZZaGZfR3BxRjF4VkJjZHRwcXdnQQ&q=https%3A%2F%2Femmasexygirl.page.link%2FV9Hh&html_redirect=1";
+const offerLink = "https://s.id/1SYCu";
