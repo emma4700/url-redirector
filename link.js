@@ -1,1 +1,1 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbVplR3h4WDUwbmgzNFVEeXlTVEstQi1DMTJXd3xBQ3Jtc0ttb1M4T1FWQnFGZ1hYbldEVDlSckNhd3l5WkJZczdWeHdPYzNoMkkxNFM2R0RZaE8xenNoWlliTjVZTDRpZEpJaFN3cUhRR2RTVWFBaElqanh3aEY0VEtneGpJdHZsR09VMjdQcWx3YVJDS1ltTGNfWQ&q=https%3A%2F%2Ft.ly%2FcGMO2&html_redirect=1";
+const offerLink = "https://tinyurl.com/Email4700";
