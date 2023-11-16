@@ -1,1 +1,1 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHQwUk9qWnJTSlY3VFg2NlhEY0ZNSUtpUExNd3xBQ3Jtc0trMUR6VExuYlE1TEJ6QXFaeE10X3dfMFRtbzhJNWMxTXFKWDRCejFMVHNpc2tNblJNRVV6a3MtWUY1Tk9BaG9tdlhhSE1KdF9UYmR0eUkyQmNWbl9HV0lHdTE4aGpOQW1Zc0F1MzJJekpHekgyQjZLMA&q=https%3A%2F%2Fshorturl.at%2FtzBE5&html_redirect=1";
+const offerLink = "https://oglaoo.remarkabiedates.com/?utm_source=da57dc555e50572d&s1=183514&s2=1958312&s3=Jgfff&s5=Ggff&ban=other&j5=1&j6=1";
