@@ -1,1 +1,1 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqazB4U05YbTV5dHdzSFRjM3BHbU9Ud252ZWJ1Z3xBQ3Jtc0trNzZyUU9tQlFDZy1xM3ppMUd0LU1DZHBMSUpjcW4tQ3ZJd3RsZDAzaFRuR0NXRzcwbW4yRWh4cjBWOTd0Z2haTDBmX1J0dW9FN01ydFpGRElzQ3Voa3FwaG9nZzFwNm9fVEFSUF9YYUN0UEZ2TnRaaw&q=https%3A%2F%2Ftinyurl.com%2F2p82ukjy&html_redirect=1";
+const offerLink = "https://heartwavedates.live/s?a=212138&sm=37499&co=290361&mt=28&s1=BF@_Biswash_777";
