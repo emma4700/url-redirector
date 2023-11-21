@@ -1,1 +1,1 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbmF2UkhhZkRxb3lSa1JQM3ZGQllmR0tyWDItd3xBQ3Jtc0ttbHJaa0pzaUlxZl85OXEzUGU2Q1NwT3J1OUFNUlk0ejZDZ3FfTDBZVF9TUjVlM0dtNzRfbEdvODRCN0lkQlYtOTZHWmphLTM1TlI1eko1Q0F5bkNqTjQ4UTVHdC1YM3VweHlkeGl5emdXSXhiRkd4dw&q=http%3A%2F%2Fsurl.li%2Fnjrpn&html_redirect=1";
+const offerLink = "http://surl.li/njryd";
