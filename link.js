@@ -1,1 +1,1 @@
-const offerLink = "https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbmU5WWV1Zzk3UnNmQXA5OE05aGZRNVdPc0xPQXxBQ3Jtc0tseE91RXZLSVBmbUxRVTVyMHMyWVNLdW4zRVhwcHZkVnFfRl9nZ1Vzb3RKOW9UQkFBWnRxTVdoWWhBQW5TbVAyd05fc0FzdktZSHNpaDh1RVhfdHJZdkpEb2tQZkd4cFBkeFRkSVdMODFkTFBjaTFLbw&q=https%3A%2F%2Fsafechay33.page.link%2Faluraye&html_redirect=1";
+const offerLink = "https://smrturl.co/o/600461/53429081?s1=";
